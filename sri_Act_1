@@ -2,12 +2,12 @@
     #include<stdlib.h>  
      int main()    
     {    
-    int a=10, b=20;      
+    int a=30, b=40;      
     printf("Before swap a=%d b=%d",a,b);       
-    a=a*b;//a=200 (10*20)    
-    b=a/b;//b=10 (200/20)    
-    a=a/b;//a=20 (200/10)    
-     system("cls");  
+    a=a*b;   
+    b=a/b;    
+    a=a/b;//a=200/10)    
+     system("s");  
     printf("\nAfter swap a=%d b=%d",a,b);       
     return 0;  
     }   
