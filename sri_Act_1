@@ -2,7 +2,7 @@
     #include<stdlib.h>  
      int main()    
     {    
-    int a=30, b=40;      
+    int sri=30, b=40;      
     printf("Before swap a=%d b=%d",a,b);       
     a=a*b;   
     b=a/b;    
